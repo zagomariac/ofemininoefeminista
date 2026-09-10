@@ -1,0 +1,33 @@
+[read me.txt](https://github.com/user-attachments/files/32060698/read.me.txt)
+########## DICIONÁRIO DE VARIÁVEIS ##########
+
+[em tema:]
+v. contra a mulher - violência
+d. trans - direitos 
+
+[gen - gênero]
+4 - homem
+1 - mulher
+
+[par - partido]
+1 - esquerda
+3 - direita
+
+[espec - espectro político detalhado]
+
+[status - status de tramitação]
+1 - em tramitação
+2 - arquivados, retirados ou devolvidos ao autor
+3 - virou lei
+
+[posic - posicionamento em relação aos direitos de gênero]
+1 - favorável
+0 - desfavorável
+
+[relig - religião]
+FPE - frente parlamentar evangélica
+FPC - frente parlamentar católica apostólica romana
+FPMA - frente parlamentar em defesa dos povos de matriz africana
+
+[uf - unidade federativa]
+
